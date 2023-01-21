@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hello 👋 i am @xbennii
 
-<!--
-**xbennii/xbennii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👀 I’m interested in Lua, JavaScript, and Python   
+🌱 I’m currently learning Python   
+📫 Contact me via Email: bamberger@bennni.xyz or Discord: Benni#9999 
 
-Here are some ideas to get you started:
+## 🌊 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> </a> <a href="https://bennni.xyz/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" alt="lua" width="40" height="40"/> </a> <a href="https://bennni.xyz/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="40" height="40"/> </a> <a href="https://bennni.xyz/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" width="40" height="40"/> </a> </p>
+
+## 🛠 My specialties
+
+I am trying to create "FiveM" scripts via Lua. And "Discord Bot's" via JavaScript or Python. If you have any questions or even wishes feel free to contact me. At the top of the page you can find my contact details. Bye 👋
+
+## Badges
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
