@@ -2,7 +2,7 @@
 
 👀 I’m interested in Lua, JavaScript, and Python   
 🌱 I’m currently learning Python   
-📫 Contact me via Email: bamberger@bennni.xyz or Discord: Benni#9999 
+📫 Contact me via Email: benh@bennni.xyz or Discord: Benni#9999 
 
 ## 🌊 Skills
 
