@@ -6,7 +6,7 @@
 
 <div align="left">
  
-[![Discord Presence](https://lanyard.cnrad.dev/api/1007322838421733576)](https://discord.com/users/1007322838421733576)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1007322838421733576?&bg=222834&idleMessage=I%27m%20not%20doing%20anything%20right%20now.)](https://discord.com/users/1007322838421733576)
 </div>
 
 ## Badges
